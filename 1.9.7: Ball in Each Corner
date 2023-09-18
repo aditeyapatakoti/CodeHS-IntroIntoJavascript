@@ -1,0 +1,38 @@
+function start() {
+    putBall();
+    for(var i = 0; i < 1;i++ ){
+        move();
+        move();
+        move();
+        move();
+        move();
+    }
+    putBall();
+    turnLeft();
+    for(var i = 0; i < 1;i++ ){
+        move();
+        move();
+        move();
+        move();
+        move();
+    }
+    putBall();
+    turnLeft();
+    for(var i = 0; i < 1;i++ ){
+        move();
+        move();
+        move();
+        move();
+        move();
+    }
+    putBall();
+    turnLeft();
+    for(var i = 0; i < 1;i++ ){
+        move();
+        move();
+        move();
+        move();
+        move();
+    }
+    turnLeft();
+}
