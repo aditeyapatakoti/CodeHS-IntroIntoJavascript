@@ -1,0 +1,9 @@
+/* This program should print out your 
+ * name, and a hobby you have */
+function start(){
+
+//NOTE: PLEASE EDIT FROM MY NAME TO YOURS!
+println("My name is Aditeya.")
+
+println("I like programming.")
+}
