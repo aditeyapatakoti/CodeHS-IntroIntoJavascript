@@ -1,0 +1,23 @@
+1. var numApples = 20;
+2. var applesToBuy = readInt("How many apples would you like? ");
+3. var leftOver = numApples % 3;
+4. getWidth(), getHeight()
+5. getWidth() / 2, getHeight() / 2
+6. The x coordinate of the center of the circle
+7. 
+We create the circle and position it correctly on the screen, but we never add it to the screen.
+We need to add the line
+`add(circle);`
+after line 4
+8. FlorenceFernandez
+9. userAge
+10. var x = readInt(“What is the x coordinate? “);
+var y = readInt(“What is the y coordinate? “);
+var radius = readInt(“What is the radius of the circle? “);
+11. println(distance/(time/60));
+12. 1
+13. 30
+14. Draw a circle on the canvas that is always tangential to the top and left sides of the canvas
+15. var circle = new Circle(diameter/2);
+circle.setPosition(100,100);
+add(circle);
