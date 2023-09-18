@@ -1,0 +1,10 @@
+1. break
+2. sentinel
+3. 
+while(true){
+    //code
+    if(condition){
+        break;
+    }
+    //code
+}
