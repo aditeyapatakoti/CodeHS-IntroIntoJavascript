@@ -1,0 +1,5 @@
+1. Pair-programming is basically where two programmers work together to write programs. 
+2. The role of the driver is to write the code using their keyboard and mouse.
+3. The role of the navigator is to find bugs/erros in the code the driver writes and fixes them accordingly.
+4. One benefit of pair-programming is the fact that there is a really good chance that there will no bugs in the code.
+5. Some challenges that I expect to arise during pair-programming is the fact that the two programmers may not get along well. And another challenge is that sometimes it is really hard to work together. Lastly, it is 15% slower to code as a pair rather than coding solo.
