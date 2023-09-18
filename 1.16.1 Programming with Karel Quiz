@@ -1,0 +1,31 @@
+1. move();
+2. The l should be a capital L
+3. 
+function turnRight() {
+    turnLeft();
+    turnLeft();
+    turnLeft();
+}
+4. All of the above
+5. Street 1, Avenue 3, Facing North
+6. Street 3, Avenue 3, Facing East
+7. Called 3 times, defined 1 time
+8. The go function has been defined twice
+9. 6
+10. I and II
+11. // This is a comment
+12. Karel moves until it is on a ball
+13. turnLeft()
+14. 1
+15. ballsPresent()
+16. All of the above
+17. Define a new function
+18. For loop
+19. Karel will crash into a wall
+20. This code won’t run because of a syntax error
+21. Top down design is a way of designing your program by starting with the biggest problem and breaking it down into smaller and smaller pieces that are easier to solve.
+22. Use a for loop to repeat the move command
+23. To pick up the ball that is in the last spot, if there is one
+24. Karel ends one spot above a tennis ball facing East.
+25. To repeat something a fixed number of times
+
