@@ -1,0 +1,44 @@
+//variables for height and width
+
+//variables for rows and colums (for the board design)
+
+//variables for piece outlines
+
+//setSize command here (most likely):
+//setSize(SCREEN_HEIGHT, SCREEN_WIDTH);
+
+//variables for segment width and height (use getHeight and getWidth divided by ROWS and COLMS (collums))
+
+//variable for board (a grid so):
+//var board = new Grid(ROWS,COLMS);
+
+//variables for white pieces (only one variable for the pawn even though there are 8)
+
+//variables for black pieces (only one variable for the pawn even though there are 8)
+
+//variable for the white turn
+//possibly: var turnWhite = true;
+
+//variables for when the user clicks on a piece (put a border around the square (Color.YELLOW))
+
+//variables for checkmates (one for black checkmate and one for white)
+
+//variable for a lose message or no (keep false)
+//variable (undefined) for the text of the message
+
+//variables to disable/enable AI for either side
+
+//debug (for messages)
+//debug for the mini-max mod (from the github (philips))
+
+//variable for amount of clicks/moves (declare it worth 0)
+//probably: var clicks = 0;
+
+//variable for white to move: var fromWhite;
+
+//ALL VARIABLES ABOVE WILL BE GLOBAL/CONSTANT!!!
+//EVERYTHING UNDER THIS WILL BE LOCAL (SOME GLOBAL, BUT RARELY) VARIABLES, FUNCTIONS, AND ALL TYPES OF STATEMENTS/COMMANDS
+
+//(COPY & PASTE EVERYTHING FROM PHILLIPSCUTTER GITHUB AFTER THIS LINE)
+
+//in start function make a readline function to choose if player wants to play versus an AI or with another player.
