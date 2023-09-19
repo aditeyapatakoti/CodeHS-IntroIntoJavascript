@@ -1,0 +1,7 @@
+1. All of the above
+2. All of the above
+3. 
+function drawRectangle(x, y, width, height, color){
+    //Draw a rectangle using the parameters as properties
+    …
+}
