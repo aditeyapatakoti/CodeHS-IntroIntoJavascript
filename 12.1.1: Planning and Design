@@ -1,0 +1,19 @@
+//NOTE: THIS IS WHAT I DID FOR MY FINAL PROJECT. PLEASE EDIT OR MAKE YOUR OWN ACCORDINGLY!
+//ANOTHER NOTE: This is 12.1.1 (planning and design) assignment, the other ones are named: 12.1.2 Pseudocode, 12.1.3 Write the Code!, and 12.1.4: Present your Project.
+I will provide a google slides link but you may need to edit it/make your own.
+
+Title of my program: Chess AI in CodeHS
+Every chess piece can move throught the board (unless its an illegal move)
+The entire program will function like a normal chess board and game.
+Something like the bots in chess.com
+the most important things I will be using are timers (maybe a litteral timer for the time per player or something like that), functions, and variables (obviously)
+Possible upgrades to the chess board: Custom Colors, Custom Textures.
+You can disable AI on both sides if you want or keep one side on (so you can play against someone)
+Pieces are from the wiki (for black and white) (may not have custom textures because of this)
+
+FINAL FEATURES:
+ - AI vs AI or player vs player with 'blackAI' and 'whiteAI' variables
+ - Variable screen height and width rendering
+ - Custom number of columns and rows for board rendering
+ - Customizable weights for pieces
+ - Customizable colors
