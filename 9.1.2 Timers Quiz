@@ -1,0 +1,2 @@
+1. Every 20 milliseconds
+2. setTimer(animate, 50);
