@@ -1,0 +1,2 @@
+1. mouseClickMethod(drawCircle);
+2. A function passed to an event handler that is called every time a certain event happens
