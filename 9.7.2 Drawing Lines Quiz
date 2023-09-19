@@ -1,0 +1,2 @@
+1. Line 4 declares a new local variable var line. The local variable line in down is different from the global variable line in drag, but we need these functions to be affecting the same line
+2. Get rid of the var in Line 4 so that the line in down refers to the same global line in drag rather than a local variable.
