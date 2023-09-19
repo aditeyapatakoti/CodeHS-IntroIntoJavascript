@@ -1,0 +1,44 @@
+1. Animates a ball by moving it down and to the right once every 20 milliseconds.
+2. III and IV
+3. stopTimer(draw);
+4. 25
+5. I and III, and IV
+6. 
+function drawCircle(x, y, radius, color){
+    var circle = new Circle(radius);
+    circle.setPosition(x, y);
+    circle.setColor(color);
+    add(circle);
+}
+7. 5
+8. ball.getX() + ball.getRadius(), ball.getY()
+9. 
+if(ball.getY() + ball.getRadius() > getHeight()){
+    //ball is hitting bottom edge
+}
+10. 
+var elem = getElementAt(ball.getX() - ball.getRadius() - 1, ball.getY());
+if(elem == box){
+    //ball's left edge is hitting box
+}
+11. dy = -dy;
+12. mouseMoveMethod(paint);
+13. A function passed to an event handler that is called every time a certain event happens
+14. mouseMoveMethod
+15. draw
+16. e is a parameter passed to the callback function paint that contains information about the Mouse Event, such as where on the window it occurred.
+17. 
+function removeShape(e){
+    var shape = getElementAt(e.getX(), e.getY());
+    if(shape != null){
+        remove(shape);
+    }
+}
+18. Line 4 declares a new local variable var ball. The local variable ball in the function down is different from the global variable ball in the function drag, but we need these functions to be affecting the same ball.
+19. Get rid of the word var in line 4 so that the ball in down refers to the same global ball in drag rather than a local variable.
+20. The function moveBall will be called every time any key on the keyboard is pressed down.
+21. Pressing down the ‘R’ key
+22. The square changes color to a random color
+23. xPosition = xPosition + 2*RADIUS;
+24. var y = RADIUS + (2 * i * RADIUS);
+25. II and III
