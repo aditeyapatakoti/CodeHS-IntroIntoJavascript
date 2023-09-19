@@ -1,0 +1,28 @@
+1. All of the above
+2. word
+3. 
+      15
+      5
+4. 
+      0
+      1
+      2
+5. 3 parameters go in, 1 return value comes out
+6. 
+function isSuperman(isBird, isPlane){
+    return !isBird && !isPlane;
+}
+7. base and height
+8. 7
+9. Four
+10 40
+11. *~**~**~*
+12. 
+function start() {
+    for (var i = 0; i < 6; i++) {
+        fnA(i)
+    }
+}
+13. result, x, y, and MAX_NUMBER
+14. Draw different shapes on the canvas
+15. It allows you to use its value anywhere in the program by typing RADIUS or radius.
