@@ -1,0 +1,6 @@
+1.
+var x = Randomizer.nextInt(ball.getRadius(),
+                    getWidth() - ball.getRadius());
+var y = Randomizer.nextInt(ball.getRadius(), 
+                    getHeight() - ball.getRadius());
+ball.setPosition(x, y);
