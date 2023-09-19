@@ -1,0 +1,7 @@
+1. mouseMoveMethod(paint);
+2. 
+function paint(e){
+    var circle = new Circle(20);
+    circle.setPosition(e.getX(), e.getY());
+    add(circle);
+}
