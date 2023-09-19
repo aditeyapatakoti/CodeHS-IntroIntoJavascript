@@ -1,0 +1,5 @@
+1. ball.getX() - ball.getRadius();
+2. 
+if(ball.getX() - ball.getRadius() <= 0){
+    //ball is hitting left edge
+}
