@@ -1,0 +1,2 @@
+1. Draws several randomly colored circles at the center of the canvas by drawing 1 every 50 milliseconds.
+2. stopTimer(draw);
