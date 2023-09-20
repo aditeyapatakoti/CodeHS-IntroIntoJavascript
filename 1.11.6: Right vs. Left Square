@@ -7,30 +7,16 @@ function start() {
 }
 
 function makeLeftSquare() {
-    putBall();
-    move();
-    turnLeft();
-    putBall();
-    move();
-    turnLeft();
-    putBall();
-    move();
-    turnLeft();
-    putBall();
-    move();
-    turnLeft();
+    for(var i = 0; i < 4; i++){
+        putBall();
+        move();
+        turnLeft();
+    }
 }
 function makeRightSquare() {
-    putBall();
-    move();
-    turnRight();
-    putBall();
-    move();
-    turnRight();
-    putBall();
-    move();
-    turnRight();
-    putBall();
-    move();
-    turnRight();
+    for(var i = 0; i < 4; i++){
+        putBall();
+        move();
+        turnRight();
+    }
 }
