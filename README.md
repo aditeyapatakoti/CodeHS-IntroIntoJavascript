@@ -6,3 +6,6 @@ Please note that the format to the quiz answers is:
 1. `answer here`
 2. `answer here`
 3. `and so on...`
+
+**MORE UPDATES COMING SOON!** 
+Current Updates: Added 1 other final project option that you can use as your final project.
