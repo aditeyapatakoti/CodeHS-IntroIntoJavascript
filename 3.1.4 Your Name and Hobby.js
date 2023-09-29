@@ -2,8 +2,7 @@
  * name, and a hobby you have */
 function start(){
 
-//NOTE: PLEASE EDIT FROM MY NAME TO YOURS!
-println("My name is Aditeya.")
+println("My name is <your name here>")
 
 println("I like programming.")
 }
