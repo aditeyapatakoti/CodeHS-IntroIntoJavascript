@@ -14,5 +14,3 @@ If you find any issues with the code please let me know by creating an issue.
 
 
 Note: if you have any suggestions or want to add your own final projects to help out other people then please let me know through the discussion tab.
-
-TODO (for me): change the files with code in them to end with .js
