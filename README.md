@@ -3,7 +3,7 @@ This repository includes answers and code to every quiz and assignment needed in
 
 To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
 
-Example: 19.2.3 (this would take you to the file named "Blinking Rectangles.js"
+Example: 19.2.3 (this will take you to the file named "Blinking Rectangles.js"
 
 # Quiz Answers Format
 1. `answer here`
