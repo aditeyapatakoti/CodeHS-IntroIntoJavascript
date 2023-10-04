@@ -1,8 +1,10 @@
 # CodeHS-IntroIntoJavascript
-Answers + Code to every quiz and assignment needed in CodeHS
-To find a specific assignment click on the `Go to File` button near the top of all of the files.
+This repository includes answers and code to every quiz and assignment needed in CodeHS's course called "Introduction to Computer Science in Javascript (Golden) 2022".
+To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
 
-# Format to the quiz answers
+Example: 10.1.2 (this would be lead you to the assignment named "Guess the Word, Part 1.py"
+
+# Quiz Answers Format
 1. `answer here`
 2. `answer here`
 3. `and so on...`
