@@ -1,8 +1,9 @@
 # CodeHS-IntroIntoJavascript
 This repository includes answers and code to every quiz and assignment needed in CodeHS's course called "Introduction to Computer Science in Javascript (Golden) 2022".
+
 To find a specific assignment click on the `Go to File` button near the top of all of the files and then type in the assignment number.
 
-Example: 10.1.2 (this would be lead you to the assignment named "Guess the Word, Part 1.py"
+Example: 19.2.3 (this would take you to the file named "Blinking Rectangles.js"
 
 # Quiz Answers Format
 1. `answer here`
