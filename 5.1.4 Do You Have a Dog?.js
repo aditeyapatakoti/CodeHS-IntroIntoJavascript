@@ -5,3 +5,11 @@ function start(){
 	var dog = false
 	println('Do you have a dog? ' + dog)
 }
+
+//THIS IS CODE IS AN ALTERNATIVE: 
+/*
+function start(){
+    var dog = readLine("Do you have a dog?")
+    println("Dog?: " + dog)
+}
+*/
