@@ -8,7 +8,7 @@ var SENTINEL = -1;
 function start() {
     //line 10,11,12 tell the player some starting information about the game.
     println('This program plays a guessing game.');
-    println('The computor is thinking of a value between 0 and 100');
+    println('The computer is thinking of a value between 0 and 100');
     println('Type "-1" to exit the program' );
     var NUMBER = Randomizer.nextInt(1,100);
     while(true){
