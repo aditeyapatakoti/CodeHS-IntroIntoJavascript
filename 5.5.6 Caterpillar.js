@@ -6,6 +6,7 @@ var circleColor = Color.red;
 // the odd circles are green. Use a for loop to draw the caterpillar, centered 
 // vertically in the screen.
 //start function 
+//after this function I have included an alternate color sequence for fun...
 function start() {
     for (var i = 0; i < NUM_CIRCLES; i++) {
         var circle = new Circle(RADIUS);
@@ -20,3 +21,19 @@ function start() {
         }
     }
 }
+/*function start() {
+    for (var i = 0; i < NUM_CIRCLES; i++) {
+        var circle = new Circle(RADIUS);
+        circle.setColor(circleColor);
+        circle.setPosition(RADIUS * i * 2 + RADIUS, getHeight() / 2);
+        add(circle);
+        
+        if (circleColor == Color.red) {
+            circleColor = Color.black;
+        } else {
+            circleColor = Color.red;
+        }
+    }
+}
+*/
+
