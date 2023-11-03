@@ -25,5 +25,4 @@ function b(){
 }
 function c(){
     move();
-
 }
