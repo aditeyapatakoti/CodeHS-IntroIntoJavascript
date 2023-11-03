@@ -5,6 +5,4 @@ function start() {
     } else {
         move();
     }
-    
-        
 }
