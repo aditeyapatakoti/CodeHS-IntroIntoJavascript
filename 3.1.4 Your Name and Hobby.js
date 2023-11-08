@@ -1,8 +1,6 @@
 /* This program should print out your 
  * name, and a hobby you have */
 function start(){
-
-println("My name is <your name here>")
-
-println("I like programming.")
+println("Your name"); //Enter in your name
+println("Your hobby"); //Enter in your hobby or hobbies
 }
