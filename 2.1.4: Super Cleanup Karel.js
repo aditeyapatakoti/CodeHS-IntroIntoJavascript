@@ -6,12 +6,9 @@ function start() {
 	turnAround();
 	begRow();
 	turnAround();
-	for(var i = 0; i < 23; i++){
-	    if (leftIsBlocked()){
+	for(var i = 0; i < 24; i++){
+	    if (leftIsClear()){
 	        //this just makes the dog go in a circle (didn't want to leave the if statement empty soo...)
-	        turnAround();
-	        turnAround();
-	    } else {
 	        turnLeft();
 	        move();
 	        turnRight();
@@ -19,9 +16,10 @@ function start() {
             cleanup();
 	    }
 	}
-	turnRight();
-	while (frontIsClear()){
-	    move();
+	if (facingNorth()){
+	    while (frontIsClear()){
+	        move();
+	    }
 	}
     if (facingSouth()){
         turnLeft();
@@ -49,7 +47,7 @@ function sweep(){
     }
 }
 //goes back (1,y)
-function begRow(){
+ function begRow(){
     while (frontIsClear()){
         move();
     }
